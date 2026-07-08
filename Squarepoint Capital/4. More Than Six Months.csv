@@ -1,14 +1,14 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Unsolved
 MEDIUM,Search Suggestions System,100.0,0.006518431831480398,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
 MEDIUM,Maximum Xor Product,91.3,0.003007706381327272,https://leetcode.com/problems/maximum-xor-product,"Math, Greedy, Bit Manipulation"
 MEDIUM,Subarray Product Less Than K,83.2,0.005449010275694816,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
 MEDIUM,Number of Perfect Pairs,83.2,0.003430410056869201,https://leetcode.com/problems/number-of-perfect-pairs,"Array, Math, Two Pointers, Sorting"
 MEDIUM,LRU Cache,77.8,0.004754641880119744,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Basic Calculator,77.8,0.004696590014761332,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
+HARD,Basic Calculator,77.8,0.004696590014761332,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion","NO"
 MEDIUM,Maximum Subarray,70.8,0.005347377376308821,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
 MEDIUM,Longest Increasing Subsequence,70.8,0.005957466695647406,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
-HARD,Frog Jump,70.8,0.004737657345964418,https://leetcode.com/problems/frog-jump,"Array, Dynamic Programming"
-MEDIUM,Longest Non-decreasing Subarray From Two Arrays,70.8,0.0031269757418727305,https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays,"Array, Dynamic Programming"
+HARD,Frog Jump,70.8,0.004737657345964418,https://leetcode.com/problems/frog-jump,"Array, Dynamic Programming","NO"
+MEDIUM,Longest Non-decreasing Subarray From Two Arrays,70.8,0.0031269757418727305,https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays,"Array, Dynamic Programming","NO"
 MEDIUM,Count Ways To Build Good Strings,70.8,0.005886860949101613,https://leetcode.com/problems/count-ways-to-build-good-strings,Dynamic Programming
 MEDIUM,Maximum Palindromes After Operations,70.8,0.004701909498372936,https://leetcode.com/problems/maximum-palindromes-after-operations,"Array, Hash Table, String, Greedy, Sorting, Counting"
 MEDIUM,Merge In Between Linked Lists,70.8,0.008303352962525025,https://leetcode.com/problems/merge-in-between-linked-lists,Linked List
